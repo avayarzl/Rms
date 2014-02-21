@@ -1,0 +1,334 @@
+[27-Jul-2008 22:42:42] PHP Notice:  Undefined index:  item_name in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 26
+[27-Jul-2008 22:46:06] PHP Notice:  Undefined variable: switch in C:\Inetpub\wwwroot\restaurant\reportconsumption.php on line 172
+[27-Jul-2008 22:54:44] PHP Notice:  Undefined variable: dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 9
+[27-Jul-2008 22:55:43] PHP Notice:  Undefined variable: dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 9
+[27-Jul-2008 22:55:48] PHP Notice:  Undefined variable: dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 9
+[27-Jul-2008 22:56:14] PHP Notice:  Undefined index:  dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 6
+[27-Jul-2008 22:56:42] PHP Notice:  Undefined index:  dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 6
+[27-Jul-2008 22:56:45] PHP Notice:  Undefined variable: date in C:\Inetpub\wwwroot\restaurant\reportconsumption.php on line 278
+[27-Jul-2008 22:56:45] PHP Notice:  Undefined variable: dept_code in C:\Inetpub\wwwroot\restaurant\reportconsumption.php on line 278
+[27-Jul-2008 22:58:48] PHP Notice:  Undefined index:  dept_code in C:\Inetpub\wwwroot\restaurant\printconsumptionitem.php on line 6
+[27-Jul-2008 23:17:38] PHP Notice:  Undefined variable: item_id in C:\Inetpub\wwwroot\restaurant\editdish.php on line 24
+[27-Jul-2008 23:29:53] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:29:53] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:29:53] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:29:53] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:29:53] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:29:53] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:29:53] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 49
+[27-Jul-2008 23:29:53] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 49
+[27-Jul-2008 23:29:53] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 54
+[27-Jul-2008 23:29:53] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 54
+[27-Jul-2008 23:39:00] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:39:00] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:39:00] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:39:00] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:39:00] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:43:49] PHP Parse error:  syntax error, unexpected T_RETURN in C:\Inetpub\wwwroot\restaurant\libraries\dish.php on line 165
+[27-Jul-2008 23:44:07] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:44:07] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:44:07] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:44:07] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:44:07] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:44:23] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:44:23] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:44:23] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:44:23] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:44:23] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:44:29] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 31
+[27-Jul-2008 23:44:29] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 32
+[27-Jul-2008 23:44:29] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 36
+[27-Jul-2008 23:44:29] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:44:29] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:45:40] PHP Notice:  Undefined variable: item in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[27-Jul-2008 23:45:40] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdish.php on line 55
+[28-Jul-2008 06:14:32] PHP Notice:  Undefined variable: dishId in C:\Inetpub\wwwroot\restaurant\editdish.php on line 77
+[28-Jul-2008 06:14:32] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in C:\Inetpub\wwwroot\restaurant\libraries\dish.php on line 116
+[28-Jul-2008 06:15:09] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in C:\Inetpub\wwwroot\restaurant\libraries\dish.php on line 116
+[28-Jul-2008 06:15:55] PHP Notice:  Undefined variable: dishId in C:\Inetpub\wwwroot\restaurant\editdish.php on line 86
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  logged_in in C:\Inetpub\wwwroot\restaurant\global.php on line 10
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 53
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 71
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 89
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 106
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 117
+[28-Jul-2008 07:31:23] PHP Notice:  Undefined index:  permission in C:\Inetpub\wwwroot\restaurant\templates\page.php on line 137
+[28-Jul-2008 07:54:55] PHP Notice:  Undefined index:  sale_price in C:\Inetpub\wwwroot\restaurant\ajax\dish.php on line 14
+[28-Jul-2008 07:55:05] PHP Notice:  Undefined index:  sale_price in C:\Inetpub\wwwroot\restaurant\ajax\dish.php on line 14
+[28-Jul-2008 07:57:50] PHP Notice:  Undefined variable: dish in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 22
+[28-Jul-2008 07:57:50] PHP Notice:  Trying to get property of non-object in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 22
+[28-Jul-2008 07:58:33] PHP Notice:  Undefined variable: mode in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 31
+[28-Jul-2008 07:58:33] PHP Notice:  Undefined variable: mode in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 37
+[28-Jul-2008 08:01:30] PHP Notice:  Undefined variable: dishId in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 57
+[28-Jul-2008 08:01:30] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 62
+[28-Jul-2008 08:01:45] PHP Notice:  Undefined variable: dishId in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 57
+[28-Jul-2008 08:01:45] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 62
+[28-Jul-2008 08:02:07] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 62
+[28-Jul-2008 08:02:27] PHP Fatal error:  Call to undefined method Validator::cost() in C:\Inetpub\wwwroot\restaurant\editdishingre.php on line 65
+[28-Jul-2008 12:06:08] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 92
+[28-Jul-2008 12:07:10] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 92
+[28-Jul-2008 12:10:59] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 92
+[28-Jul-2008 12:11:59] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 92
+[28-Jul-2008 12:12:54] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:13:53] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:13:55] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:14:03] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:14:06] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:14:12] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:14:14] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:15:09] PHP Notice:  Undefined index:  stock_qty in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 93
+[28-Jul-2008 12:16:05] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in C:\Inetpub\wwwroot\restaurant\libraries\item.php on line 109
+[28-Jul-2008 12:22:05] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\Inetpub\wwwroot\restaurant\libraries\user.php on line 100
+[27-Mar-2009 12:12:03] PHP Warning:  require_once(C:\wamp\www\restaurant\libraries\validator.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\wamp\www\restaurant\global.php on line 21
+[27-Mar-2009 12:12:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'C:\wamp\www\restaurant\libraries\validator.php' (include_path='.;C:\php5\pear') in C:\wamp\www\restaurant\global.php on line 21
+[30-Mar-2009 06:36:25] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 06:38:00] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 06:43:40] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 06:44:18] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 14
+[30-Mar-2009 06:44:42] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:44:45] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:44:47] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:44:48] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:54:29] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:54:58] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:55:00] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:55:01] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:55:06] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:56:14] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 25
+[30-Mar-2009 06:56:31] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 26
+[30-Mar-2009 06:57:01] PHP Notice:  Use of undefined constant numrows - assumed 'numrows' in C:\wamp\www\restaurant\ajax\login.php on line 26
+[30-Mar-2009 07:00:39] PHP Notice:  Constant _REXEC already defined in C:\wamp\www\restaurant\global.php on line 4
+[30-Mar-2009 07:00:39] PHP Notice:  Use of undefined constant LOGIN_PROCESS - assumed 'LOGIN_PROCESS' in C:\wamp\www\restaurant\global.php on line 11
+[30-Mar-2009 07:03:53] PHP Notice:  Use of undefined constant LOGIN_PROCESS - assumed 'LOGIN_PROCESS' in C:\wamp\www\restaurant\global.php on line 11
+[30-Mar-2009 07:03:53] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:04:52] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 14
+[30-Mar-2009 07:04:52] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:04:58] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 14
+[30-Mar-2009 07:04:58] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:06:59] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 07:06:59] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:11:04] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 07:11:04] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:11:46] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:15:03] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:15:06] PHP Notice:  Undefined index:  user in C:\wamp\www\restaurant\home.php on line 5
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant\global.php on line 12
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 53
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 71
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 89
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 106
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 117
+[30-Mar-2009 07:15:19] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant\templates\page.php on line 137
+[30-Mar-2009 07:15:35] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in C:\wamp\www\restaurant\libraries\validator.php on line 124
+[30-Mar-2009 07:20:54] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant\addemployee.php on line 110
+[30-Mar-2009 07:20:54] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant\libraries\validator.php on line 53
+[30-Mar-2009 07:21:57] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant\addemployee.php on line 110
+[30-Mar-2009 07:21:57] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant\libraries\validator.php on line 53
+[30-Mar-2009 07:22:15] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant\addemployee.php on line 110
+[30-Mar-2009 07:22:15] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant\libraries\validator.php on line 53
+[31-Mar-2009 09:59:12] PHP Notice:  Undefined index:  real_name in C:\wamp\www\restaurant1\libraries\user.php on line 64
+[31-Mar-2009 10:04:24] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant1\editmeasurement.php on line 58
+[31-Mar-2009 10:04:24] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant1\libraries\validator.php on line 53
+[31-Mar-2009 10:04:26] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant1\editmeasurement.php on line 58
+[31-Mar-2009 10:04:26] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant1\libraries\validator.php on line 53
+[31-Mar-2009 10:09:16] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant1\editemployee.php on line 119
+[31-Mar-2009 10:09:16] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant1\libraries\validator.php on line 53
+[02-Apr-2009 11:54:42] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant1\addemployee.php on line 110
+[02-Apr-2009 11:54:42] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant1\libraries\validator.php on line 53
+[02-Apr-2009 11:55:01] PHP Strict Standards:  Non-static method Validator::isError() should not be called statically in C:\wamp\www\restaurant1\addemployee.php on line 110
+[02-Apr-2009 11:55:01] PHP Fatal error:  Using $this when not in object context in C:\wamp\www\restaurant1\libraries\validator.php on line 53
+[02-Apr-2009 11:55:38] PHP Warning:  require_once(C:\wamp\www\restaurant1\libraries\validator.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\wamp\www\restaurant1\global.php on line 24
+[02-Apr-2009 11:55:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'C:\wamp\www\restaurant1\libraries\validator.php' (include_path='.;C:\php5\pear') in C:\wamp\www\restaurant1\global.php on line 24
+[02-Apr-2009 13:37:39] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\restaurant1\edititem.php on line 84
+[02-Apr-2009 13:37:48] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\restaurant1\edititem.php on line 84
+[02-Apr-2009 13:38:01] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\restaurant1\edititem.php on line 84
+[02-Apr-2009 13:39:10] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:39:40] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:40:23] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:41:33] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:41:55] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:41:58] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:45:28] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\edititem.php on line 100
+[02-Apr-2009 13:45:42] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editemployee.php on line 150
+[02-Apr-2009 13:46:11] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editemployee.php on line 150
+[02-Apr-2009 13:48:21] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:48:37] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:48:45] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:49:57] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:51:33] PHP Notice:  Undefined variable: dept_name in C:\wamp\www\restaurant1\editdepartment.php on line 73
+[02-Apr-2009 13:51:33] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\restaurant1\editdepartment.php on line 73
+[02-Apr-2009 13:51:37] PHP Notice:  Undefined variable: dept_name in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:52:14] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 89
+[02-Apr-2009 13:53:00] PHP Notice:  Undefined index:  dept_id in C:\wamp\www\restaurant1\editdepartment.php on line 88
+[02-Apr-2009 13:54:03] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\editdepartment.php on line 90
+[02-Apr-2009 13:55:42] PHP Notice:  Undefined variable: dept_name in C:\wamp\www\restaurant1\editdepartment.php on line 94
+[02-Apr-2009 13:57:38] PHP Notice:  Undefined variable: name in C:\wamp\www\restaurant1\editemployee.php on line 154
+[02-Apr-2009 13:57:55] PHP Catchable fatal error:  Object of class Validator could not be converted to string in C:\wamp\www\restaurant1\edititem.php on line 100
+[02-Apr-2009 13:58:36] PHP Notice:  Undefined variable: item_name in C:\wamp\www\restaurant1\edititem.php on line 106
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  logged_in in C:\wamp\www\restaurant1\global.php on line 12
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 53
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 71
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 89
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 106
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 117
+[02-Apr-2009 15:37:42] PHP Notice:  Undefined index:  permission in C:\wamp\www\restaurant1\templates\page.php on line 137
+[02-Dec-2012 06:20:18] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[02-Dec-2012 06:20:19] PHP Stack trace:
+[02-Dec-2012 06:20:19] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[02-Dec-2012 06:20:19] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[02-Dec-2012 06:20:19] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[02-Dec-2012 06:20:19] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[02-Dec-2012 06:24:07] PHP Notice:  Undefined variable: reorder_lvl in C:\wamp\www\RMS\additem.php on line 64
+[02-Dec-2012 06:24:07] PHP Stack trace:
+[02-Dec-2012 06:24:07] PHP   1. {main}() C:\wamp\www\RMS\additem.php:0
+[02-Dec-2012 06:24:07] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\RMS\additem.php on line 64
+[02-Dec-2012 06:24:07] PHP Stack trace:
+[02-Dec-2012 06:24:07] PHP   1. {main}() C:\wamp\www\RMS\additem.php:0
+[02-Dec-2012 06:28:48] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[02-Dec-2012 06:28:48] PHP Stack trace:
+[02-Dec-2012 06:28:48] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[02-Dec-2012 06:28:48] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[02-Dec-2012 06:28:48] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[02-Dec-2012 06:28:48] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[03-Dec-2012 07:06:17] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[03-Dec-2012 07:06:17] PHP Stack trace:
+[03-Dec-2012 07:06:17] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[03-Dec-2012 07:06:17] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[03-Dec-2012 07:06:17] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[03-Dec-2012 07:06:17] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[03-Dec-2012 07:08:04] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[03-Dec-2012 07:08:04] PHP Stack trace:
+[03-Dec-2012 07:08:04] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[03-Dec-2012 07:08:04] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[03-Dec-2012 07:08:04] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[03-Dec-2012 07:08:04] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[03-Dec-2012 07:20:27] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[03-Dec-2012 07:20:27] PHP Stack trace:
+[03-Dec-2012 07:20:27] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[03-Dec-2012 07:20:27] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[03-Dec-2012 07:20:27] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[03-Dec-2012 07:20:27] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[03-Dec-2012 07:21:59] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[03-Dec-2012 07:21:59] PHP Stack trace:
+[03-Dec-2012 07:21:59] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[03-Dec-2012 07:21:59] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[03-Dec-2012 07:21:59] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[03-Dec-2012 07:21:59] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[05-Dec-2012 09:03:40] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[05-Dec-2012 09:03:40] PHP Stack trace:
+[05-Dec-2012 09:03:40] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 09:03:40] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 09:03:40] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 09:03:40] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[05-Dec-2012 09:04:58] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[05-Dec-2012 09:04:58] PHP Stack trace:
+[05-Dec-2012 09:04:58] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 09:04:58] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 09:04:58] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 09:04:58] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[05-Dec-2012 09:06:52] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[05-Dec-2012 09:06:52] PHP Stack trace:
+[05-Dec-2012 09:06:52] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 09:06:52] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 09:06:52] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 09:06:52] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[05-Dec-2012 09:08:30] PHP Fatal error:  Call to undefined method Validator::checkEmail() in C:\wamp\www\RMS\libraries\validator.php on line 48
+[05-Dec-2012 09:08:30] PHP Stack trace:
+[05-Dec-2012 09:08:30] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 09:08:30] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 09:08:30] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 09:09:16] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[05-Dec-2012 09:09:16] PHP Stack trace:
+[05-Dec-2012 09:09:16] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 09:09:16] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 09:09:16] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 09:09:16] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[05-Dec-2012 11:11:43] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[05-Dec-2012 11:11:43] PHP Stack trace:
+[05-Dec-2012 11:11:43] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[05-Dec-2012 11:11:43] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[05-Dec-2012 11:11:43] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[05-Dec-2012 11:11:43] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 01:48:06] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 01:48:06] PHP Stack trace:
+[06-Dec-2012 01:48:06] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 01:48:06] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 01:48:06] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 01:48:06] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 02:05:13] PHP Warning:  md5() expects parameter 2 to be boolean, resource given in C:\wamp\www\RMS\libraries\user.php on line 89
+[06-Dec-2012 02:05:13] PHP Stack trace:
+[06-Dec-2012 02:05:13] PHP   1. {main}() C:\wamp\www\RMS\adduser.php:0
+[06-Dec-2012 02:05:13] PHP   2. User->save() C:\wamp\www\RMS\adduser.php:69
+[06-Dec-2012 02:05:13] PHP   3. md5() C:\wamp\www\RMS\libraries\user.php:89
+[06-Dec-2012 02:21:36] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 02:21:36] PHP Stack trace:
+[06-Dec-2012 02:21:36] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 02:21:36] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 02:21:36] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 02:21:36] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 03:21:26] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 03:21:26] PHP Stack trace:
+[06-Dec-2012 03:21:26] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 03:21:26] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 03:21:26] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 03:21:26] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:34:00] PHP Deprecated:  Function eregi() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 05:34:00] PHP Stack trace:
+[06-Dec-2012 05:34:00] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 05:34:00] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 05:34:00] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 05:34:00] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:36:17] PHP Deprecated:  Function ereg() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 05:36:17] PHP Stack trace:
+[06-Dec-2012 05:36:17] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 05:36:17] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 05:36:17] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 05:36:17] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:37:46] PHP Deprecated:  Function ereg() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 05:37:46] PHP Stack trace:
+[06-Dec-2012 05:37:46] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 05:37:46] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 05:37:46] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 05:37:46] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:37:54] PHP Deprecated:  Function ereg() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 05:37:54] PHP Stack trace:
+[06-Dec-2012 05:37:54] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 05:37:54] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 05:37:54] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 05:37:54] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:38:22] PHP Deprecated:  Function ereg() is deprecated in C:\wamp\www\RMS\libraries\validator.php on line 117
+[06-Dec-2012 05:38:22] PHP Stack trace:
+[06-Dec-2012 05:38:22] PHP   1. {main}() C:\wamp\www\RMS\addemployee.php:0
+[06-Dec-2012 05:38:22] PHP   2. Validator->__construct() C:\wamp\www\RMS\addemployee.php:106
+[06-Dec-2012 05:38:22] PHP   3. Validator->validate() C:\wamp\www\RMS\libraries\validator.php:13
+[06-Dec-2012 05:38:22] PHP   4. Validator->checkEmail() C:\wamp\www\RMS\libraries\validator.php:48
+[06-Dec-2012 05:45:32] PHP Notice:  Undefined variable: reorder_lvl in C:\wamp\www\RMS\additem.php on line 64
+[06-Dec-2012 05:45:32] PHP Stack trace:
+[06-Dec-2012 05:45:32] PHP   1. {main}() C:\wamp\www\RMS\additem.php:0
+[06-Dec-2012 05:45:32] PHP Fatal error:  Call to a member function getValue() on a non-object in C:\wamp\www\RMS\additem.php on line 64
+[06-Dec-2012 05:45:32] PHP Stack trace:
+[06-Dec-2012 05:45:32] PHP   1. {main}() C:\wamp\www\RMS\additem.php:0
+[06-Dec-2012 06:33:02] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 06:33:02] PHP Stack trace:
+[06-Dec-2012 06:33:02] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 06:33:02] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8
+[06-Dec-2012 06:33:21] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 06:33:21] PHP Stack trace:
+[06-Dec-2012 06:33:21] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 06:33:21] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8
+[06-Dec-2012 07:07:04] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 07:07:04] PHP Stack trace:
+[06-Dec-2012 07:07:04] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 07:07:04] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8
+[06-Dec-2012 07:07:11] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 07:07:11] PHP Stack trace:
+[06-Dec-2012 07:07:11] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 07:07:11] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8
+[06-Dec-2012 07:07:13] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 07:07:13] PHP Stack trace:
+[06-Dec-2012 07:07:13] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 07:07:13] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8
+[06-Dec-2012 07:07:13] PHP Notice:  Undefined index: sale_price in C:\wamp\www\RMS\ajax\dish.php on line 14
+[06-Dec-2012 07:07:13] PHP Stack trace:
+[06-Dec-2012 07:07:13] PHP   1. {main}() C:\wamp\www\RMS\ajax_wrapper.php:0
+[06-Dec-2012 07:07:13] PHP   2. require_once() C:\wamp\www\RMS\ajax_wrapper.php:8

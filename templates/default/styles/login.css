@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* Login CSS @author Prasham */
+
+* {
+	margin:0;
+	padding:0;
+}
+
+html { }
+body { }
+
+#container {
+	margin:0px auto 0px;
+	width:550px;
+	height:460px;
+}
+
+#login_panel {
+	background:url(../images/login_bg.jpg) no-repeat;
+	height:385px;
+	width:523px;
+	position:relative;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#084f05;
+}
+
+	#login_title {
+		font-size:1.4em;
+		font-family:Arial, Helvetica, sans-serif;
+		position:absolute;
+		top:78px;
+		left:150px;
+	}
+	#login_information {
+		font-size:0.9em;
+		font-family:Arial, Helvetica, sans-serif;
+		position:absolute;
+		top:112px;
+		left:180px;
+	}
+	
+	#login_panel form {
+		position:absolute;
+		top:140px;
+		left:260px;
+	}
+	
+	label {
+		font-size:13px;
+		margin:2px 1px 5px;
+		padding-bottom:3px;
+	}
+	
+	form p {
+		margin:3px 0px 10px;
+		color:#034400;
+	}
+	#username {
+		padding:3px;
+		background-color:#ffffff !important;
+		border:2px solid #1fb617;
+		margin-top:3px;
+		color:#034400;
+	}
+	
+	#password {
+		padding:3px;
+		background-color:#ffffff !important;
+		border:2px solid #1fb617;
+		margin-top:3px;
+		color:#034400;
+	}
+	
+	.submit {
+		text-align:right;
+	}
+	#btn_login {
+		height:31px;
+		background:url(../images/btn_login.jpg) no-repeat;
+		width:85px;
+		outline:none;
+	}
+	#btn_login:hover {
+		background-position:center;	
+	}
+	
+#error_panel {
+	background-color:#ffc6c6;
+	border:1px solid #ff5858;
+	width:300px;
+	float:right;
+	margin-right:40px;
+	padding:5px;
+	padding-left:10px;
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ff0000;
+	display:none;
+}
+
+#status_bar {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	height:75px;
+	background-color:#4fc449;
+	width:100%;
+}
+
